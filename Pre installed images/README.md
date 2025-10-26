@@ -1,0 +1,1 @@
+To install pre installed img of Unix v7 on your machine just write hd2.img file to your disk from zero sector it'll write partition map on your disk and create partition 145 mb with Unix v7 installed on it. 
