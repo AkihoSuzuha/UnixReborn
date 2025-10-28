@@ -13,8 +13,8 @@ The project can exist only because of Robert Nordier (https://www.nordier.com/),
 **[Our target]** <br />
 To have 10% of www-servers and 1% of desktop computers running Unix at 2030th year.<br /> 
 So we will:<br />
-  * Port software to Unix V7th.
-  * Write drivers for USB, IP/TCP Networking, Modern File systems.
-  * Create package manager for Unix and for Linux and for... windows probably.
-  * Write our own graphic driver.
-  * create Desktop Enviroment for Unix.
+* Port software to Unix V7th.
+*  Write drivers for USB, IP/TCP Networking, Modern File systems.
+*  create package manager for Unix and for Linux and for... windows probably.
+*  write our own graphic driver.
+*  create Desktop Enviroment for Unix.
