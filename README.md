@@ -2,6 +2,9 @@
 Project started 1761311042 seconds since Jan 01 1970. 4:04 pm 10/24/2025.<br />
 <br />
 
+![Can not load picture.. ](/images/emul.png "")
+
+<br />
 **[Introduction]**<br />
 Project targeted at reborn of former former greatness of Unix. This free distribution of Unix v7th port by Nordier to i386 will be updated with my own drivers... and will make Unix suitable for using on desktops and server platforms. <br />
 <br />
